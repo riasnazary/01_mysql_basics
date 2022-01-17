@@ -1,4 +1,4 @@
-# Documentation of project_1_SQL
+# Documentation of project_1_MySQL
 
 This repository contains data from my first project that I did during "WBS Coding School - Data Science" from 18th October 2021 to 11th February 2022
 
